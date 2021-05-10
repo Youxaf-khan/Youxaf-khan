@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Youxaf-khan, fresh graduate of Bachelor's in Computer Science.
 - 👀 I’m interested in Andriod/IOS Development, Quantum Computing, Machine Learnning.
-- 🌱 I’m currently learning Flutter, React Native, JavaScript, Dart.
+- 🌱 I’m currently learning Flutter, React Native, JavaScript, Ruby on rails.
 - 📫 How to reach me ... Youxafkhan@hotmail.com
 
 <!---
