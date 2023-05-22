@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Youxaf-khan" alt="Yousaf-khan" /> </p>
 - 👋 Hi, I’m @Youxaf-khan, fresh graduate of Bachelor's in Computer Science.
 - 👀 I’m interested in Andriod/IOS Development, Quantum Computing, Machine Learnning.
 - 🌱 I’m currently learning React, JavaScript, Ruby on rails.
