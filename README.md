@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousaf Khan</h1>
-<h3 align="center">Full-Stack Engineer</h3>
+<h3 align="center">Full-Stack Ruby on Rails Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yousaf-khan" alt="Yousaf-khan" /> </p>
 
