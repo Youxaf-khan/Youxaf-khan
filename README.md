@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning React, JavaScript, Ruby on rails.
 
-- 👯 I’m looking to collaborate on **any Ruby on Rails / NodeJS / ReactJS**
+- 👯 I’m looking to collaborate on **any Ruby on Rails / ReactJS**
 
 - 🤝 I’m looking for help with **getting remote job as a full-stack engineer.**
 
