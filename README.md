@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yousaf Khan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Yousaf Khan</h1>
 <h3 align="center">Full-Stack Ruby on Rails Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=M-Yousaf-khan" alt="M-Yousaf-khan" /> </p>
